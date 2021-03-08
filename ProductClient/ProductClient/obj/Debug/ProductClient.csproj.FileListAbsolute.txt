@@ -1,0 +1,13 @@
+D:\FPT-U\Kì 5\PRN292\ASM3_SE140281\ProductClient\ProductClient\bin\Debug\ProductClient.exe.config
+D:\FPT-U\Kì 5\PRN292\ASM3_SE140281\ProductClient\ProductClient\bin\Debug\ProductClient.exe
+D:\FPT-U\Kì 5\PRN292\ASM3_SE140281\ProductClient\ProductClient\bin\Debug\ProductClient.pdb
+D:\FPT-U\Kì 5\PRN292\ASM3_SE140281\ProductClient\ProductClient\bin\Debug\ProductLibrary.dll
+D:\FPT-U\Kì 5\PRN292\ASM3_SE140281\ProductClient\ProductClient\bin\Debug\ProductLibrary.pdb
+D:\FPT-U\Kì 5\PRN292\ASM3_SE140281\ProductClient\ProductClient\obj\Debug\ProductClient.frmClient.resources
+D:\FPT-U\Kì 5\PRN292\ASM3_SE140281\ProductClient\ProductClient\obj\Debug\ProductClient.Properties.Resources.resources
+D:\FPT-U\Kì 5\PRN292\ASM3_SE140281\ProductClient\ProductClient\obj\Debug\ProductClient.csproj.GenerateResource.cache
+D:\FPT-U\Kì 5\PRN292\ASM3_SE140281\ProductClient\ProductClient\obj\Debug\ProductClient.csproj.CoreCompileInputs.cache
+D:\FPT-U\Kì 5\PRN292\ASM3_SE140281\ProductClient\ProductClient\obj\Debug\ProductClient.csproj.CopyComplete
+D:\FPT-U\Kì 5\PRN292\ASM3_SE140281\ProductClient\ProductClient\obj\Debug\ProductClient.exe
+D:\FPT-U\Kì 5\PRN292\ASM3_SE140281\ProductClient\ProductClient\obj\Debug\ProductClient.pdb
+D:\FPT-U\Kì 5\PRN292\ASM3_SE140281\ProductClient\ProductClient\obj\Debug\ProductClient.csprojAssemblyReference.cache

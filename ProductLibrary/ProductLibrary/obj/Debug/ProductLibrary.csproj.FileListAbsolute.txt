@@ -1,0 +1,5 @@
+D:\FPT-U\Kì 5\PRN292\ASM3_SE140281\ProductLibrary\ProductLibrary\bin\Debug\ProductLibrary.dll
+D:\FPT-U\Kì 5\PRN292\ASM3_SE140281\ProductLibrary\ProductLibrary\bin\Debug\ProductLibrary.pdb
+D:\FPT-U\Kì 5\PRN292\ASM3_SE140281\ProductLibrary\ProductLibrary\obj\Debug\ProductLibrary.csproj.CoreCompileInputs.cache
+D:\FPT-U\Kì 5\PRN292\ASM3_SE140281\ProductLibrary\ProductLibrary\obj\Debug\ProductLibrary.dll
+D:\FPT-U\Kì 5\PRN292\ASM3_SE140281\ProductLibrary\ProductLibrary\obj\Debug\ProductLibrary.pdb
